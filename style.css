@@ -74,3 +74,13 @@ p {
 .bzold{
     border-color: green;
 }
+
+
+
+table {
+    width: 600px;
+    height: 600px;
+}
+.fekete {
+    background-color: black;
+}
